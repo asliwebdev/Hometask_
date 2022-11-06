@@ -10,9 +10,6 @@ hr {
   height: 0px;
   width: 5%;
 }
-img {
-  height: 200px;
-}
 h1 {
   color: #3AB0FF;
   font-family: 'Sacramento', cursive;
@@ -22,7 +19,14 @@ h3 {
   color: #66BFBF;
   font-family: 'Montserrat' , sans-serif;
 }
-#sad {
+.profile {
+  height: 200px;
+}
+.happy {
+    width: 300px;
+    height: 200px;
+}
+.sad {
     width: 300px;
     height: 200px;
 }
