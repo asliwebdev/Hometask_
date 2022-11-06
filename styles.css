@@ -1,0 +1,28 @@
+body {
+  background-color: #E4F9F5;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:5px;
+  height: 0px;
+  width: 5%;
+}
+img {
+  height: 200px;
+}
+h1 {
+  color: #3AB0FF;
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+}
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat' , sans-serif;
+}
+#sad {
+    width: 300px;
+    height: 200px;
+}
